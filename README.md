@@ -1,4 +1,4 @@
-![image](https://github.com/anithalder/anithalder/assets/87062016/003a85c8-6623-4b43-9b6b-cf6178dc21d7)<h1 align="center">Hi 👋, I'm Anit Halder</h1>
+<h1 align="center">Hi 👋, I'm Anit Halder</h1>
 
 <h3 align="center">A professional programmer from India,West Bengal,Kolkata</h3>
 
