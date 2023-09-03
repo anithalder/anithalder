@@ -44,4 +44,7 @@
     <a href="https://www.apachefriends.org/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" /> 
     </a>
+    <a href="https://www.apachefriends.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn6dcRqG9FE3U11IyvVjUhNs8_S-cfHQ66m_hs5_c0H0BPfBTUY2H76o8OGrIwN98NI4Y&usqp=CAU" alt="php" width="40" height="40" /> 
+    </a>
 </p>
