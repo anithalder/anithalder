@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **C,JAVA,Python,DBMS,PHP**
 
-- ⚡ Fun fact **cool**
+- ⚡ Fun fact **I use slang's 🤣**
 
 <h3 align="left">Connect with me:</h3>
 
