@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Saptarsi Das</h1>
-<h3 align="center">A passionate programmer from India</h3>
+<h1 align="center">Hi 👋, I'm Anit Halder</h1>
+<h3 align="center">A passionate programmer from India,West Bengal,Kolkata</h3>
 <img align="right"alt="coding"width="400"src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saptarsidas&label=Profile%20views&color=0e75b6&style=flat" alt="saptarsidas" /> </p>
 
-- 🌱 I’m currently learning **BCA,C,JAVA**
+- 🌱 I’m currently learning **C,JAVA,Python,DBMS,PHP**
 
 - ⚡ Fun fact **cool**
 
