@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anit Halder</h1>
+![image](https://github.com/anithalder/anithalder/assets/87062016/003a85c8-6623-4b43-9b6b-cf6178dc21d7)<h1 align="center">Hi 👋, I'm Anit Halder</h1>
 
 <h3 align="center">A professional programmer from India,West Bengal,Kolkata</h3>
 
@@ -42,9 +42,6 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> 
     </a>
     <a href="https://www.apachefriends.org/" target="_blank" rel="noreferrer"> 
-        <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn6dcRqG9FE3U11IyvVjUhNs8_S-cfHQ66m_hs5_c0H0BPfBTUY2H76o8OGrIwN98NI4Y&usqp=CAU)" alt="php" width="40" height="40" /> 
-    </a>
-    <a href="https://www.apachefriends.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn6dcRqG9FE3U11IyvVjUhNs8_S-cfHQ66m_hs5_c0H0BPfBTUY2H76o8OGrIwN98NI4Y&usqp=CAU" alt="php" width="40" height="40" /> 
+        <img src="https://cdn2.iconfinder.com/data/icons/pack1-baco-flurry-icons-style/512/XAMPP.png" alt="php" width="40" height="40" /> 
     </a>
 </p>
