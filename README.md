@@ -20,7 +20,9 @@
 ## Can talk to me
   
 - <img align="center" src="https://akm-img-a-in.tosshub.com/indiatoday/images/story/202307/twitter-x_0-one_one.jpg?VersionId=qOPJmd905ROv7bd_V5.Z_RR33Lq1qW9V" alt="anit" height="25" width="30" /> &nbsp; &nbsp;
+<a href="https://twitter.com/AnitHalder03" target="blank">
   <img src="https://img.shields.io/twitter/follow/anithalder03?logo=twitter&amp;style=for-the-badge" alt="anithalder03">
+  </a>
 
 - 📱 Discord me &nbsp; **<a style="display:inline;" href="https://discord.com/channels/@me" target="blank">
         <img align="center" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" alt="anit" height="25" width="30"/>
