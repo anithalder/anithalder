@@ -14,21 +14,23 @@
 
 - 📫 How to reach me **anithalder360@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+## Connect with me as a freind
 
 <p align="left">
     <a href="https://www.linkedin.com/in/anit-halder" target="blank">
-        <img align="center"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anit" height="30" width="40" />
+        <img align="center"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anit" height="30" width="40" /> <img src="https://img.shields.io/twitter/follow/anithalder03?logo=twitter&amp;style=for-the-badge" alt="anithalder03">
     </a>
+<br>
     <a href="https://www.facebook.com/anit.halder.1610" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anit" height="30" width="40" />
     </a>
+<br>
     <a href="https://twitter.com/AnitHalder03" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anit" height="30" width="40" />
     </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+## Languages and Tools I use
 
 <p align="left"> 
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
