@@ -12,10 +12,12 @@
 
 - ⚡ Fun fact **I use slang's 🤣**
 
+- 📫 How to reach me **anithalder360@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/anit-halder-223a77242" target="blank">
+    <a href="https://www.linkedin.com/in/anit-halder" target="blank">
         <img align="center"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anit" height="30" width="40" />
     </a>
     <a href="https://www.facebook.com/anit.halder.1610" target="blank">
