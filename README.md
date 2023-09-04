@@ -19,8 +19,8 @@
 
 ## Can talk to me
   
-- <img align="center" src="https://akm-img-a-in.tosshub.com/indiatoday/images/story/202307/twitter-x_0-one_one.jpg?VersionId=qOPJmd905ROv7bd_V5.Z_RR33Lq1qW9V" alt="anit" height="25" width="30" /> &nbsp; &nbsp;
-<a href="https://twitter.com/AnitHalder03" target="blank">
+- <a href="https://twitter.com/AnitHalder03" target="blank">
+  <img align="center" src="https://akm-img-a-in.tosshub.com/indiatoday/images/story/202307/twitter-x_0-one_one.jpg?VersionId=qOPJmd905ROv7bd_V5.Z_RR33Lq1qW9V" alt="anit" height="25" width="30" /> &nbsp; &nbsp;
   <img src="https://img.shields.io/twitter/follow/anithalder03?logo=twitter&amp;style=for-the-badge" alt="anithalder03">
   </a>
 
