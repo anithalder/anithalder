@@ -2,7 +2,7 @@
 
 <h3 align="center">A professional programmer from India,West Bengal,Kolkata</h3>
 
-<img align="right" alt="coding" width="420" style="border-radious: 10px" height="250" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+<img align="right" alt="coding" width="420" style="border-radious: 10px" height="290" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 <p align="left">
         <img src="https://komarev.com/ghpvc/?username=saptarsidas&label=Profile%20views&color=0e75b6&style=flat" alt="anithalder" /> 
