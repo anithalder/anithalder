@@ -4,10 +4,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=anithalder&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="anithalder">
 
-<p align="left">
-        <img src="https://komarev.com/ghpvc/?username=saptarsidas&label=Profile%20views&color=0e75b6&style=flat" alt="anithalder" /> 
-</p>
-## Know about me ?
+## Know about me
 
 - 🌱 I’m currently learning **C,JAVA,Python,DBMS,PHP**
 
