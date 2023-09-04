@@ -13,7 +13,7 @@
 
 - I love Hollybood and Bollywood **Sci-Fi , Horror , Action , Adventure 🎬**
 
-- Also like **playing 🎮 , listening 🎶 and 🥪🌮🥡🍔🍟**
+- I enjoy **playing 🎮 , listening 🎶 and 🥪🌮🥡🍔🍟**
 
 - ⚡ Fun fact **I use slang's 🤣 alaways**.
 
