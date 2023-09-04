@@ -5,7 +5,7 @@
 <img src="https://komarev.com/ghpvc/?username=anithalder&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="anithalder">
 <img align="right" width="400" hight="200" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="anithalder">
 
-## Know about me
+## Know about me?
 
 - 🌱 I’m currently learning and develop my skills with **C , JAVA , Python , DBMS , PHP** and also improving it.
 
