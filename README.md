@@ -34,7 +34,7 @@
 
 - 📫 Email at **anithalder360@gmail.com**
 
-<img align="right" width="400" src="https://saamarketing.co.uk/wp-content/uploads/2022/08/The-Different-Types-of-Technology-GIF.gif" alt="anithalder">
+<img align="right" width="400" src="https://media3.giphy.com/media/xT4uQF7h39mlsF5czK/giphy.gif?cid=6c09b952gyh6j7uv40q2tsn6pbycv8qevc47d6g5lygymcu0&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt="anithalder">
 
 ## Freely connect with me 🤝
 
