@@ -18,6 +18,8 @@
 - ⚡ Fun fact **I use slang's 🤣 alaways**.
 
 ## Can talk to me
+
+<img align="right" width="400" hight="400" src="https://saamarketing.co.uk/wp-content/uploads/2022/08/The-Different-Types-of-Technology-GIF.gif" alt="anithalder">
   
 - <a href="https://twitter.com/AnitHalder03" target="blank">
   <img align="center" src="https://akm-img-a-in.tosshub.com/indiatoday/images/story/202307/twitter-x_0-one_one.jpg?VersionId=qOPJmd905ROv7bd_V5.Z_RR33Lq1qW9V" alt="anit" height="25" width="30" /> &nbsp; &nbsp;
