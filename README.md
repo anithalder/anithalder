@@ -2,12 +2,12 @@
 
 <h3 align="center">A professional programmer from India,West Bengal,Kolkata</h3>
 
-<img align="right" alt="coding" width="420" style="border-radious: 10px" height="290" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+<img src="https://komarev.com/ghpvc/?username=anithalder&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="anithalder">
 
 <p align="left">
         <img src="https://komarev.com/ghpvc/?username=saptarsidas&label=Profile%20views&color=0e75b6&style=flat" alt="anithalder" /> 
 </p>
-
+## Know about me ?
 - 🌱 I’m currently learning **C,JAVA,Python,DBMS,PHP**
 
 - ⚡ Fun fact **I use slang's 🤣**
@@ -18,15 +18,15 @@
 
 <p align="left">
     <a href="https://www.linkedin.com/in/anit-halder" target="blank">
-        <img align="center"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anit" height="30" width="40" /> <img src="https://img.shields.io/twitter/follow/anithalder03?logo=twitter&amp;style=for-the-badge" alt="anithalder03">
+        <img align="center"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anit" height="30" width="40" /> 
     </a>
-<br>
+<br><br>
     <a href="https://www.facebook.com/anit.halder.1610" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anit" height="30" width="40" />
     </a>
-<br>
+<br><br>
     <a href="https://twitter.com/AnitHalder03" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anit" height="30" width="40" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anit" height="30" width="40" /><img src="https://img.shields.io/twitter/follow/anithalder03?logo=twitter&amp;style=for-the-badge" alt="anithalder03">
     </a>
 </p>
 
