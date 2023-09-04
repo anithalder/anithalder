@@ -26,7 +26,7 @@
         <img align="center" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" alt="anit" height="25" width="30"/>
       </a>**
 
-- 💬 Chat with me &nbsp; **<a style="display:inline;" href="https://www.linkedin.com/in/anit-halder" target="blank">
+- 💬 Chat with me &nbsp; **<a style="display:inline;" href="https://telegram.me/Anithalder" target="blank">
           <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="anit" height="25" width="25" />
                           </a>**
 
