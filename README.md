@@ -17,8 +17,6 @@
 
 - ⚡ Fun fact **I use slang's 🤣 alaways**.
 
-**<img align="right" width="400" hight="200" src="https://i.makeagif.com/media/10-27-2021/TS06B5.gif" alt="anithalder">**
-
 ## Can talk to me
   
 - <img align="center" src="https://akm-img-a-in.tosshub.com/indiatoday/images/story/202307/twitter-x_0-one_one.jpg?VersionId=qOPJmd905ROv7bd_V5.Z_RR33Lq1qW9V" alt="anit" height="25" width="30" /> &nbsp; &nbsp;
