@@ -10,8 +10,14 @@
 - 🌱 I’m currently learning **C,JAVA,Python,DBMS,PHP**
 
 - ⚡ Fun fact **I use slang's 🤣**
+
+## Can talk to me
   
-- 💬 How to reach me&nbsp;<img src="https://img.shields.io/twitter/follow/anithalder03?logo=twitter&amp;style=for-the-badge" alt="anithalder03">
+- 💬 &nbsp;<img src="https://img.shields.io/twitter/follow/anithalder03?logo=twitter&amp;style=for-the-badge" alt="anithalder03">
+
+- 💬 **https://discord.com/channels/@me**
+
+- 📱 Chat with me **https://telegram.me/Anithalder**
 
 - 📫 Email at **anithalder360@gmail.com**
 
@@ -29,6 +35,9 @@
     <a href="https://twitter.com/AnitHalder03" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anit" height="30" width="40" />&nbsp;
     </a>
+  <a href="https://discord.gg/https://discord.gg/a9RDY9p6" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/a9RDY9p6" height="30" width="40" />
+  </a>
 </p>
 
 
@@ -60,5 +69,6 @@
 <p>
     &nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=anithalder&show_icons=true&locale=en" alt="anithalder" />
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anithalder&" alt="anithalder"/>
+  <br> <br>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anithalder&" alt="anithalder"/>
 </p>
