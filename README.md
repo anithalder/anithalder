@@ -1,4 +1,4 @@
-<img height="500" width="1000" src="https://raw.githubusercontent.com/anithalder/anithalder/main/animation.gif">
+<img height="450" width="1000" src="https://raw.githubusercontent.com/anithalder/anithalder/main/animation.gif">
 
 <h1 align="center">Hi 👋, I'm Anit Halder</h1>
 <h3 align="center">A professional programmer from India,West Bengal,Kolkata</h3>
