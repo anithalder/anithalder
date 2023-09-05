@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/anithalder/anithalder/main/animation.gif">
+<img height="500" width="1000" src="https://raw.githubusercontent.com/anithalder/anithalder/main/animation.gif">
 
 <h1 align="center">Hi 👋, I'm Anit Halder</h1>
 <h3 align="center">A professional programmer from India,West Bengal,Kolkata</h3>
@@ -86,6 +86,6 @@
 
 <p>
     &nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=anithalder&show_icons=true&locale=en&theme=blue-green" alt="anithalder"/> &nbsp;
+    <img align="center" width="420" src="https://github-readme-stats.vercel.app/api?username=anithalder&show_icons=true&locale=en&theme=blue-green" alt="anithalder"/> &nbsp;
   <img align="center" width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=anithalder&theme=github-dark-blue" alt="anithalder"/>
 </p>
