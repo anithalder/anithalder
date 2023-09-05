@@ -1,8 +1,8 @@
 <img height="350" width="1000" src="https://raw.githubusercontent.com/anithalder/anithalder/main/animation.gif">
 
-<h1 align="center">Hi 👋, I'm Anit Halder<img align="center" src="" alt="anit" height="25" width="30"/></h1>
+<h1 align="center">Hi 👋, I'm Anit Halder<img align="center" src="https://raw.githubusercontent.com/anithalder/anithalder/main/ezgif.com-webp-to-jpg-removebg-preview.png" alt="anit" height="35" width="40"/></h1>
 
-<h3 align="center">A professional programmer from India,West Bengal,Kolkata</h3>
+<h3 align="center">A professional programmer from India,West Bengal,Kolkata 🇮🇳🌉</h3>
 
 <img src="https://komarev.com/ghpvc/?username=anithalder&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="anithalder">
 <img align="right" width="400" hight="200" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="anithalder">
