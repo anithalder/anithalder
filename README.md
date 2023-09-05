@@ -1,5 +1,5 @@
-![animation](https://github.com/anithalder/anithalder/assets/143413651/03ef5be8-7932-4477-8a30-de35de8e29f5)
-#
+<img src="https://raw.githubusercontent.com/anithalder/anithalder/main/animation.gif">
+
 <h1 align="center">Hi 👋, I'm Anit Halder</h1>
 <h3 align="center">A professional programmer from India,West Bengal,Kolkata</h3>
 
