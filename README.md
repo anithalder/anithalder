@@ -85,7 +85,7 @@
 
 <p>
     &nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=anithalder&show_icons=true&locale=en" alt="anithalder" />
-  <br> <br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anithalder&" alt="anithalder"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=anithalder&show_icons=true&locale=en&theme=blue-green" alt="anithalder"/> &nbsp;
+  <img align="center" width="420" height="350" src="https://github-readme-streak-stats.herokuapp.com/?user=anithalder&theme=github-dark-blue" alt="anithalder"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voyager19878"/>
 </p>
