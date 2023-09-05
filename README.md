@@ -1,6 +1,7 @@
 <img height="350" width="1000" src="https://raw.githubusercontent.com/anithalder/anithalder/main/animation.gif">
 
-<h1 align="center">Hi 👋, I'm Anit Halder</h1>
+<h1 align="center">Hi 👋, I'm Anit Halder<img align="center" src="" alt="anit" height="25" width="30"/></h1>
+
 <h3 align="center">A professional programmer from India,West Bengal,Kolkata</h3>
 
 <img src="https://komarev.com/ghpvc/?username=anithalder&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="anithalder">
