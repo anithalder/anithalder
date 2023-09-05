@@ -86,6 +86,6 @@
 
 <p>
     &nbsp;
-    <img align="center" width="420" src="https://github-readme-stats.vercel.app/api?username=anithalder&show_icons=true&locale=en&theme=blue-green" alt="anithalder"/> &nbsp;
+    <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=anithalder&show_icons=true&locale=en&theme=blue-green" alt="anithalder"/> &nbsp;
   <img align="center" width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=anithalder&theme=github-dark-blue" alt="anithalder"/>
 </p>
