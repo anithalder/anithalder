@@ -1,4 +1,4 @@
-<img height="350" width="1000" src="">
+<img height="320" width="1000" src="https://raw.githubusercontent.com/anithalder/anithalder/main/animation.gif">
 
 <h1 align="center">Hi 👋, I'm Anit Halder<img align="justify" src="https://raw.githubusercontent.com/anithalder/anithalder/main/ezgif.com-webp-to-jpg-removebg-preview.png" alt="anit" height="35" width="40"/></h1>
 
