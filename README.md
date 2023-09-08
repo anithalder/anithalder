@@ -90,3 +90,10 @@
     <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=anithalder&show_icons=true&locale=en&theme=blue-green" alt="anithalder"/> &nbsp;
   <img align="center" width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=anithalder&theme=github-dark-blue" alt="anithalder"/>
 </p>
+
+#
+<h2 align="center">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Showcard+Gothic&size=29&pause=1000&color=6CF7DE&center=true&vCenter=true&width=1000&height=100&lines=Thanks+For+Visiting+Guys%F0%9F%A4%9E%F0%9F%91%8D;If+you+think+there+is+a+mistake+somewhere%2Cplease+fix+it+%F0%9F%98%84%F0%9F%98%83;Be+sure+to+comment+and+give+feedback+%F0%9F%98%89" alt="Typing SVG" />
+</a>
+</h2>
