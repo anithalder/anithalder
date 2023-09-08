@@ -81,6 +81,12 @@
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
         <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png" alt="php" width="40" height="40" /> 
     </a>
+    <a href="https://www.linux.org/pages/download/" target="_blank" rel="noreferrer"> 
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1C6EtnxOgkT9YMhA2j1hDmDNFuEMdr7RX9c0q1pzzyrQQDkSeyE4msAKrRRy48Kuyfak&usqp=CAU" alt="bash" width="40" height="40" /> 
+    </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> 
+    </a>
 </p>
 
 ## Github Stats Card
