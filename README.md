@@ -23,18 +23,30 @@
   
 - <a href="https://twitter.com/AnitHalder03" target="blank">
   <img align="center" src="https://akm-img-a-in.tosshub.com/indiatoday/images/story/202307/twitter-x_0-one_one.jpg?VersionId=qOPJmd905ROv7bd_V5.Z_RR33Lq1qW9V" alt="anit" height="25" width="30" /> &nbsp; &nbsp;
-  <img src="https://img.shields.io/twitter/follow/anithalder03?logo=twitter&amp;style=for-the-badge" alt="anithalder03">
+  <img align="center" src="https://img.shields.io/twitter/follow/anithalder03?logo=twitter&amp;style=for-the-badge" alt="anithalder03">
   </a>
 
-- 📱 Discord me &nbsp; **<a style="display:inline;" href="https://discord.com/channels/@me" target="blank">
-        <img align="center" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" alt="anit" height="25" width="30"/>
+- 📱 &nbsp; **<a style="display:inline;" href="https://discord.com/channels/@me" target="blank">
+        <!--<img align="center" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" alt="anit" height="25" width="30"/>-->
+        <img align="center" alt="" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
       </a>**
 
 - 💬 Chat with me &nbsp; **<a style="display:inline;" href="https://telegram.me/Anithalder" target="blank">
-          <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="anit" height="25" width="25" />
+         <!-- <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="anit" height="25" width="25" />-->
+          <img align="center" alt="" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+                          </a>
+                          &nbsp;
+                          <a style="display:inline;" href="https://join.skype.com/invite/VTg07nJbrf7y" target="blank">
+         <!-- <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="anit" height="25" width="25" />-->
+          <img align="center" alt="" src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white">
+                          </a>
+                          &nbsp;
+                           <a style="display:inline;" href="https://www.messenger.com/t/100053176202153" target="blank">
+         <!-- <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="anit" height="25" width="25" />-->
+          <img align="center" alt="" src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white">
                           </a>**
 
-- 📫 Email at **anithalder360@gmail.com**
+- 📫 **<img align="center" alt="" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> at anithalder360@gmail.com**
 
 <img align="right" width="400" src="https://media3.giphy.com/media/xT4uQF7h39mlsF5czK/giphy.gif?cid=6c09b952gyh6j7uv40q2tsn6pbycv8qevc47d6g5lygymcu0&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt="anithalder">
 
@@ -100,6 +112,6 @@
 #
 <h2 align="center">
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Showcard+Gothic&size=29&pause=1000&color=6CF7DE&center=true&vCenter=true&width=1000&height=100&lines=Thanks+For+Visiting+Guys%F0%9F%A4%9E%F0%9F%91%8D;If+you+think+there+is+a+mistake+somewhere%2Cplease+fix+it+%F0%9F%98%84%F0%9F%98%83;Be+sure+to+comment+and+give+feedback+%F0%9F%98%89" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Showcard+Gothic&size=29&pause=1000&color=6CF7DE&center=true&vCenter=true&width=1000&height=100&lines=Thanks+For+Visiting+Guys%F0%9F%A4%9E%F0%9F%91%8D;If+you+think+there+is+a+mistake+somewhere%2Cplease+fix+it+%F0%9F%98%84%F0%9F%98%83;Don't+forgot+to+comment+and+giving+feedback+%F0%9F%98%89" alt="Typing SVG" />
 </a>
 </h2>
