@@ -9,7 +9,7 @@
 
 ## Know about me?
 
-- 🌱 I’m currently learning and develop my skills with **C , JAVA , Python , DBMS , PHP** and also improving it.
+- 🌱 I’m currently learning and develop my skills with **<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="anit" height="25" width="30"/> , <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="anit" height="25" width="30"/> , <img align="center" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png" alt="anit" height="25" width="30"/>** and also improving it.
 
 - 📚 I'm currently a student of Sammilani Mahavidyalaya.
 
