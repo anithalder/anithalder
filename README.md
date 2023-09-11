@@ -19,6 +19,8 @@
 
 - ⚡ Fun fact **I use slang's 🤣 alaways**.
 
+<br>
+
 ## Can talk to me
   
 - <a href="https://twitter.com/AnitHalder03" target="blank">
@@ -50,6 +52,8 @@
 
 <img align="right" width="400" src="https://media3.giphy.com/media/xT4uQF7h39mlsF5czK/giphy.gif?cid=6c09b952gyh6j7uv40q2tsn6pbycv8qevc47d6g5lygymcu0&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt="anithalder">
 
+<br>
+
 ## Freely connect with me 🤝
 
 <p align="left">
@@ -70,6 +74,7 @@
   </a>
 </p>
 
+<br>
 
 ## Languages and Tools I use
 
@@ -120,6 +125,8 @@
         <img src="https://skillicons.dev/icons?i=php" alt="git" width="40" height="40" /> 
     </a>&nbsp;
 </p>
+
+<br>
 
 ## Github Stats Card
 
