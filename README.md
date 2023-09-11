@@ -116,6 +116,9 @@
     <a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer"> 
         <img src="https://skillicons.dev/icons?i=idea" alt="git" width="40" height="40" /> 
     </a>&nbsp;
+    <a href="https://www.w3schools.com/php/DEFAULT.asp" target="_blank" rel="noreferrer"> 
+        <img src="https://skillicons.dev/icons?i=php" alt="git" width="40" height="40" /> 
+    </a>&nbsp;
 </p>
 
 ## Github Stats Card
