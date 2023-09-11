@@ -52,7 +52,6 @@
 
 ## Freely connect with me 🤝
 
-
 <p align="left">
     <a href="https://www.linkedin.com/in/anit-halder" target="blank">
         <img align="center"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anit" height="30" width="40" /> 
@@ -67,7 +66,7 @@
     </a>
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   <a href="https://discord.gg/https://discord.gg/a9RDY9p6" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/a9RDY9p6" height="30" width="40" />
+    <img align="center" src="https://skillicons.dev/icons?i=discord" alt="https://discord.gg/a9RDY9p6" height="30" width="40" />
   </a>
 </p>
 
