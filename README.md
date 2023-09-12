@@ -92,10 +92,13 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
     </a>&nbsp;
     <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-      <img src="https://skillicons.dev/icons?i=bootstrap" alt="css3" width="40" height="40"/> 
+      <img src="https://skillicons.dev/icons?i=bootstrap" alt="" width="40" height="40"/> 
+    </a>&nbsp;
+    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+      <img style="border-radious:66px;" src="https://media.licdn.com/dms/image/D560BAQF4H_WZxAbKKw/company-logo_200_200/0/1688670981001?e=2147483647&v=beta&t=yedvdatdammO0KsDIzyiVbnmGVVSvXEyfYNnS3-YwuM" alt="" width="40" height="40"/> 
     </a>&nbsp;
     <a href="https://www.vscode.com" target="_blank" rel="noreferrer">
-      <img src="https://skillicons.dev/icons?i=vscode" alt="css3" width="40" height="40"/> 
+      <img src="https://skillicons.dev/icons?i=vscode" alt="" width="40" height="40"/> 
     </a>&nbsp;
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
@@ -110,7 +113,7 @@
         <img src="https://cdn2.iconfinder.com/data/icons/pack1-baco-flurry-icons-style/512/XAMPP.png" alt="php" width="40" height="40" /> 
     </a>&nbsp;
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="php" width="40" height="40" /> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> 
     </a>&nbsp;&nbsp;&nbsp;
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
       <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> 
